@@ -14,7 +14,7 @@ A client-side Forge mod for Minecraft 1.20.1 that adds quality-of-life tweaks to
 
 - **Processing patterns** — Processing patterns are automatically blocked from being shift-clicked into Molecular Assemblers
 
-- **Craftable view pattern lock** — When a regular ME Terminal is set to "View: Craftable", encoded patterns are prevented from being shift-clicked into the network (useful if you have a sub-terminal where you view all crafting recipes).
+- **Prevent Accidently Putting Patterns** — When a ME Terminal is set to "View: Craftable", patterns are prevented from being shift-clicked into the network (Doesn't override mousetweaks) (used if you have a terminal where you view all crafting recipes).
 
 ## Compatibility
 
