@@ -12,7 +12,7 @@ A client-side Forge mod for Minecraft 1.20.1 that adds quality-of-life tweaks to
 
   > **Note:** AE2 added shift-click insertion natively in 1.21.1, but it was never backported to 1.20.1. This mod brings that functionality to 1.20.1.
 
-- **Processing pattern guard** — Processing patterns are automatically blocked from being shift-clicked into Molecular Assemblers, since assemblers can't use them. Crafting, smithing, and stonecutting patterns are allowed.
+- **Processing patterns** — Processing patterns are automatically blocked from being shift-clicked into Molecular Assemblers
 
 - **Craftable view pattern lock** — When a regular ME Terminal is set to "View: Craftable", encoded patterns are prevented from being shift-clicked into the network (useful if you have a sub-terminal where you view all crafting recipes).
 
