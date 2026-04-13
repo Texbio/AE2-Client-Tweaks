@@ -8,6 +8,7 @@ version="${file.jarVersion}"
 displayName="AE2 Client Tweaks"
 authors="Texbio"
 displayURL="https://www.curseforge.com/minecraft/mc-mods/ae2-client-tweaks"
+logoFile="ae2clienttweaks_logo.png"
 description='''
 Client-side tweaks for Applied Energistics 2.
 - Shift-click patterns from inventory into Molecular Assembler slots in the Pattern Access Terminal
